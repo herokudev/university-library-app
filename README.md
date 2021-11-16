@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# University ibrary app
 
-> One paragraph statement about the project.
+> Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. 
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This will be a console app.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- UML
+- OOP
 
 ## Live Demo
 
@@ -43,17 +43,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👨‍💻 **Herbert Orellana**
+​
+- GitHub: [@herokudev](https://github.com/herokudev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/herbert-orellana/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
