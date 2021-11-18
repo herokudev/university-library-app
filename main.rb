@@ -48,7 +48,7 @@ class Library
       permission_resp = gets.chomp
       parent_permission = permission_resp.downcase == 'y'
 
-      student = Student.new(age, name, parent_permission)
+      student = Student.new(age: age, name: name, parent_permission: parent_permission)
       @people.push(student)
 
       puts "Person created successfuly\n"
@@ -60,7 +60,7 @@ class Library
       print 'Specialization: '
       specialization = gets.chomp
 
-      teacher = Teacher.new(age, name, specialization)
+      teacher = Teacher.new(age: age, name: name, specialization: specialization)
       @people.push(teacher)
 
       puts "Person created successfuly\n"
